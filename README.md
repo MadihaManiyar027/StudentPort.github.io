@@ -1,1 +1,2 @@
-# StudentPort.github.io
+# Student Portfolio
+Simple portfolio website using HTML, CSS, JS.
