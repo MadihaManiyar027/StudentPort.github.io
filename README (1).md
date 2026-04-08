@@ -1,9 +1,9 @@
-# Madiha Shaikh — Personal Portfolio Website
+# Madiha Maniyar — Personal Portfolio Website
 
 A modern, fully responsive student digital portfolio built with **HTML, CSS, and JavaScript**.
 
 ## 🌐 Live Demo
-[View Portfolio →](https://madiha-shaikh.github.io/portfolio)
+[View Portfolio →](https://Madiha-Maniyar.github.io/portfolio)
 
 ## 📁 Folder Structure
 
@@ -68,8 +68,8 @@ Replace each file with your actual photo/screenshot/certificate (`.jpg` or `.png
 
 ## 📋 Student Info
 
-- **Name:** Madiha Shaikh  
-- **PRN:** SCFU125084  
+- **Name:** Madiha Maniyar  
+- **PRN:** SCFU125082 
 - **Program:** B.Tech Computer Science & Engineering  
-- **Instructor:** Veeranna Yempally  
+- **Instructor:** Shusobhan Pratihar 
 - **Year:** 2024–28
